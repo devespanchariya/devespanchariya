@@ -25,30 +25,30 @@
 <table><tr><td valign="top" width="33%">
 
 
+### 💻 Languages and Frameworks
 
-### Languages:  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>  
+<p>
+  <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=flat-square&logo=c&logoColor=white" />  
+  <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
+</p>
 
-<div align="center">  
-  
-</div>
+### 🗄️ Databases
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 
+### 🧰 Libraries and Tools
 
-</td></tr></table>  
-
-<br/>  
+<p>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />  
+</p>
 
 
 ## Connect with me  
